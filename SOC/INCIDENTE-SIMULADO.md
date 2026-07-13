@@ -52,7 +52,7 @@ Durante o plantão, o Sistema Sigma reportou:
 
 \## Ação
 
-Abertura de chamado no Log.Caixa:
+Abertura de chamado no Log.bank:
 
 
 
